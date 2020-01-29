@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "PPP",
+        "PPP",
+        "PPP"
+    ],
+   
+    "key":
+    {
+        "P":
+        {
+            "item": "mm:platinum_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mm:platinum_block",
+        "count": 1
+    }
+}

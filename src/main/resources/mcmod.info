@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mm",
+  "name": "Minecraft Mod",
+  "description": "A Minecraft Mod.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Danieli1818"],
+  "credits": "Me And My Friends.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
